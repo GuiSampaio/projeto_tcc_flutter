@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331775669069",
+    "firebase_url": "https://rota-segura-294003.firebaseio.com",
+    "project_id": "rota-segura-294003",
+    "storage_bucket": "rota-segura-294003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331775669069:android:32564425070210b80a3d04",
+        "android_client_info": {
+          "package_name": "br.com.guilherme.rota.segura.rota_segura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331775669069-n47em7eiglqiqedhvgjul6p219sfu3bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.guilherme.rota.segura.rota_segura",
+            "certificate_hash": "e0d2e11e26b0291bdfcc87462199ff1e4954aaee"
+          }
+        },
+        {
+          "client_id": "331775669069-6a5ph0vqftqlr53u7lhm0tia2phllfuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_pFWgCZrZUQxaUShHARMsTotUF4zc6Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331775669069-6a5ph0vqftqlr53u7lhm0tia2phllfuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
